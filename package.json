@@ -1,5 +1,5 @@
 {
-  "name": "CypherX",
+  "name": "THE UNKNOWN BOT",
   "version": "1.1.5",
   "description": "Deployment script for CypherX",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Tylor",
+  "author": "UNKNOWN",
   "license": "MIT",
   "dependencies": {
         "adm-zip": "^0.5.16",
